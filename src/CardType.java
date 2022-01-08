@@ -1,0 +1,4 @@
+enum CardType {
+	DUELER,
+	TRAINER
+}
